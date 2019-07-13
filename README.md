@@ -28,3 +28,6 @@ You can check the progress of your training by cd into model and typing ```tenso
 
 # RECOMENDED
 * It is highly recomended to train the model on a virtual machine from Google Cloud Platform or PaperSpace as it takes a lot of time for the model to train.
+
+# Photos
+* Uploaded some photos of progress
