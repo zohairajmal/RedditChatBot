@@ -8,7 +8,7 @@ A chat bot made from the reddit comments. You can ask it questions and it will r
 
 # Training Model
 
-* Now for the training model, we will use nmt model which is tweaked a little bit. Follow the following commands:
+* Now for the training model, we will use nmt model which is tweaked a little bit from Daniel-kukiela. Follow the following commands:
 ```
 $ git clone --recursive https://github.com/daniel-kukiela/nmt-chatbot
 $ cd nmt-chatbot
