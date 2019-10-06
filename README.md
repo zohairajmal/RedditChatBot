@@ -31,3 +31,13 @@ You can check the progress of your training by cd into model and typing ```tenso
 
 # Photos
 * Uploaded some photos of progress
+![Image 1](https://github.com/zohairajmal/RedditChatBot/blob/master/photos/IMG_1138.jpg)
+![Image 2](https://github.com/zohairajmal/RedditChatBot/blob/master/photos/IMG_1139.jpg)
+![Image 3](https://github.com/zohairajmal/RedditChatBot/blob/master/photos/IMG_1143.jpg)
+![Image 4](https://github.com/zohairajmal/RedditChatBot/blob/master/photos/IMG_1144.jpg)
+![Image 5](https://github.com/zohairajmal/RedditChatBot/blob/master/photos/IMG_1147.jpg)
+![Image 6](https://github.com/zohairajmal/RedditChatBot/blob/master/photos/IMG_1148.jpg)
+![Image 7](https://github.com/zohairajmal/RedditChatBot/blob/master/photos/IMG_1149.jpg)
+![Image 8](https://github.com/zohairajmal/RedditChatBot/blob/master/photos/IMG_1164.jpg)
+![Image 9](https://github.com/zohairajmal/RedditChatBot/blob/master/photos/IMG_1165.jpg)
+![Image 10](https://github.com/zohairajmal/RedditChatBot/blob/master/photos/IMG_1166.jpg)
